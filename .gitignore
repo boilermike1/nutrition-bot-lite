@@ -1,0 +1,11 @@
+# Secrets and local files: never commit
+apps-script/Config.gs
+Config.gs
+.env
+.env.*
+.dev.vars
+
+# Tooling
+node_modules/
+.wrangler/
+.DS_Store
