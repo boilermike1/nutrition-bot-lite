@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" alt="Nutrition Bot Lite logo: a smiling robot with a leaf on its chest and a fork in hand, next to a water bottle and an apple" width="200">
+</p>
+
 # Nutrition Bot Lite
 
 A Telegram bot that logs what you eat. Send it a photo of your plate, a quick description, or a barcode, and within about 30 seconds it replies with calories, protein, carbs, fat and a 1–10 health score for each food. You look over the draft, tap **Save**, and every item lands as its own row in a Google Sheet that only you can see.
